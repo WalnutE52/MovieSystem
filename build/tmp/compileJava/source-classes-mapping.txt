@@ -1,0 +1,14 @@
+Movie/App.java
+ Movie.App
+Movie/CinemaSystem.java
+ Movie.CinemaSystem
+ Movie.RealTimer
+Movie/Stuff.java
+ Movie.Stuff
+Movie/Manager.java
+ Movie.Manager
+Movie/DBUtils.java
+ Movie.DBUtils
+ Movie.EraserThread
+Movie/Customer.java
+ Movie.Customer

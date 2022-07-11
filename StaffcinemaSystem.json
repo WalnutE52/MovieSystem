@@ -1,0 +1,13 @@
+{
+    "mode_comment": "mode only can by choose , customer and manager",
+    "mode": "staff",
+    "price_comment": "you can set the normal price and the price of diffirent type of ticket is normal price time percentage, between 0 - 1",
+    "normal_price": 100.0,
+    "child": 0.5,
+    "student": 0.8,
+    "adult": 1.0,
+    "senior":0.9,
+    "gold":2.0,
+    "silver":1.5,
+    "bronze":1.0
+  }
